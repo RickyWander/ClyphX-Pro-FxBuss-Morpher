@@ -9,6 +9,8 @@ ClyphX Pro (with X-Modes functionality),
 Bindings addon, 
 Isotonik SMART (not strictly necessary)
 
+Put your files on track 16 or add your tracks after track 16 and assign a send to track 16.
+
 Presentation : 
 FX-BUS is a multi-effect "to play" that resides within any project Ableton and is proposed as addon of the two "stations" Live386 and DreamMachine.
 Some essential logic functions (the fateful ClyphX Actions by Stray) are exposed in the Ableton project both in order to allow the user to edit and transform behaviors at will, and to give him an idea of how ClyphX works and maybe start writing his own custom actions.
