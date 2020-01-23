@@ -4,6 +4,11 @@ FXBUS 1.0 Multiple FX Morpher
 
 I included the Ableton project, the TouchOsc preset, the pdf manual in english and italian, and all necessary .txt file to put into the nativeKontrol folder.
 
+You need :
+ClyphX Pro (with X-Modes functionality), 
+Bindings addon, 
+Isotonik SMART (not strictly necessary)
+
 Presentation : 
 FX-BUS is a multi-effect "to play" that resides within any project Ableton and is proposed as addon of the two "stations" Live386 and DreamMachine.
 Some essential logic functions (the fateful ClyphX Actions by Stray) are exposed in the Ableton project both in order to allow the user to edit and transform behaviors at will, and to give him an idea of how ClyphX works and maybe start writing his own custom actions.
