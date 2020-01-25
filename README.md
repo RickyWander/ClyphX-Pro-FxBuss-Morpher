@@ -23,10 +23,10 @@ https://isotonikstudios.com/product/smart/
 - Copy all .txts to preferences in nativeKontrol folder
 - Set your 8 knobs on channel 11 assign them to "control change" 1 to 8 
 - Set your buttons on channel 11 assign them to notes from 1 to 24
-- In Ableton preferences activate Input and output Remote for ClyphX (your controller) MIDI port (see image)
+- In Ableton preferences select your controller for Input and output on ClyphX Control surface (see image)
 
 
-And then open the Ableton project "Fx Buss 1-9-1" and put your clips on track 16 or add your new tracks after track 16 and assign a send to track 16. Use the send to feed FXBus on channel (16).
+And then open the Ableton project "Fx Buss 1-9-1" and put your clips on track 16 or add your new tracks after track 16 and assign a send out to track 16 in so you can use the send to feed FXBus.
 
                                                       Presentation 
                                                       
