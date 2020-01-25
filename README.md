@@ -9,11 +9,28 @@ ClyphX Pro (with X-Modes functionality),
 Bindings addon, 
 Isotonik SMART (not strictly necessary)
 
+https://isotonikstudios.com/product/clyphx-pro/
+
 http://forum.nativekontrol.com/thread/3564/adding-mode-functionality-controls-oscs 
 
-Put your files on track 16 or add your tracks after track 16 and assign a send to track 16.
+http://forum.nativekontrol.com/attachment/download/1314
 
-Presentation : 
+https://isotonikstudios.com/product/clyphx-pro-bindings/
+
+https://isotonikstudios.com/product/smart/
+
+
+- Copy all .txts to preferences in nativeKontrol folder
+- Set your 8 knobs on channel 11 assign them to "control change" 1 to 8 
+- Set your buttons on channel 11 assign them to notes from 1 to 24
+- In Ableton preferences set your controller as input for ClyphX surface (see image)
+- In Ableton preferences activate Input Remote for ClyphX (your controller) MIDI port (see image)
+
+
+And then open the Ableton project "Fx Buss 1-9-1" and put your clips on track 16 or add your new tracks after track 16 and assign a send to track 16. Use the send to feed FXBus on channel (16).
+
+                                                      Presentation 
+                                                      
 FX-BUS is a multi-effect "to play" that resides within any project Ableton and is proposed as addon of the two "stations" Live386 and DreamMachine.
 Some essential logic functions (the fateful ClyphX Actions by Stray) are exposed in the Ableton project both in order to allow the user to edit and transform behaviors at will, and to give him an idea of how ClyphX works and maybe start writing his own custom actions.
 In addition, with a wifi network and a mobile device we will have a display dedicated to the controls in use at the time thanks to the dynamic mapping of Bindings using Touch-OSC app.
