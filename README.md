@@ -51,3 +51,11 @@ Features
 10. Dynamic Mapping SysEx on Behringer X-Touch Mini
 11. Simplified customization
 12. Using a Second Grid Controller
+
+
+                                    The user manuals needs to be updated/finished
+                                    
+                                    
+                                    
+                                    
+                                    
