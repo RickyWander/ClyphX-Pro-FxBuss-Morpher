@@ -38,7 +38,7 @@ FXBUS is equipped with 8 Rack effects (Device) and is controlled with 8 knobs (t
 SMART (from Isotonik Collective, not strictly necessary), the eighth rack in the chain, is a special macro control device that allows you to put on one of its 8 knobs the 8 knobs of each of the first 7 Racks in the chain. 
 
 Features
-1. 8 effect units (ClyphX Pro + SMART required)
+1. 8 effect units (SMART not strictly required). You can cut some of them and put here your own device.
 2. Dynamic BIND Mapping and Button Modes
 3. Recalling presets and time ramps
 4. Saving presets for individual devices
