@@ -9,6 +9,8 @@ ClyphX Pro (with X-Modes functionality),
 Bindings addon, 
 Isotonik SMART (not strictly necessary)
 
+http://forum.nativekontrol.com/thread/3564/adding-mode-functionality-controls-oscs 
+
 Put your files on track 16 or add your tracks after track 16 and assign a send to track 16.
 
 Presentation : 
