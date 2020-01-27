@@ -9,6 +9,16 @@ ClyphX Pro (with X-Modes functionality),
 Bindings addon, 
 Isotonik SMART (not strictly necessary)
 
+
+Requires
+Ableton Live -- Version 9.7 or higher
+ClyphX Pro Version 1.1.8 or higher
+ClyphX Pro OSC User Actions (beta) -- Download from the official ClyphX Pro forum
+ClyphX Pro X-Mode User Actions (beta) -- Download from the official ClyphX Pro forum
+Max4Live or Ableton Live Suite -- (optional, for midi note triggers)
+TouchOSC or comparable OSC-enabled software
+
+
 https://isotonikstudios.com/product/clyphx-pro/
 
 http://forum.nativekontrol.com/thread/3564/adding-mode-functionality-controls-oscs 
