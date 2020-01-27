@@ -5,21 +5,15 @@ FXBUS 1.0 Multiple FX Morpher
 I included the Ableton project, the TouchOsc preset, the pdf manual in english and italian, and all necessary .txt file to put into the nativeKontrol folder.
 
 You need :
-Ableton Live -- Version 9.7 or higher
 
-ClyphX Pro -- 1.1.8 or higher
-
-ClyphX Pro OSC User Actions (beta) -- Download from the official ClyphX Pro forum
-
-ClyphX Pro X-Mode User Actions (beta) -- Download from the official ClyphX Pro forum
-
-Bindings addon
-
-Isotonik SMART (not strictly necessary)
-
-Max4Live or Ableton Live Suite 
-
-TouchOSC
+-Ableton Live -- Version 9.7 or higher
+-ClyphX Pro -- 1.1.8 or higher
+-ClyphX Pro OSC User Actions (beta) -- Download from the official ClyphX Pro forum
+-ClyphX Pro X-Mode User Actions (beta) -- Download from the official ClyphX Pro forum
+-Bindings addon
+-Isotonik SMART (not strictly necessary)
+-Max4Live or Ableton Live Suite 
+-TouchOSC
 
 https://isotonikstudios.com/product/clyphx-pro/
 
