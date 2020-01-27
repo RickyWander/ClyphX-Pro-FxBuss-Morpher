@@ -5,30 +5,26 @@ FXBUS 1.0 Multiple FX Morpher
 I included the Ableton project, the TouchOsc preset, the pdf manual in english and italian, and all necessary .txt file to put into the nativeKontrol folder.
 
 You need :
-ClyphX Pro (with X-Modes functionality), 
-Bindings addon, 
-Isotonik SMART (not strictly necessary)
-
-
-Requires
-Ableton Live -- Version 9.7 or higher
-ClyphX Pro Version 1.1.8 or higher
+Ableton Live -- Version 9.7 or higher 
+ClyphX Pro -- 1.1.8 or higher 
 ClyphX Pro OSC User Actions (beta) -- Download from the official ClyphX Pro forum
 ClyphX Pro X-Mode User Actions (beta) -- Download from the official ClyphX Pro forum
-Max4Live or Ableton Live Suite -- (optional, for midi note triggers)
-TouchOSC or comparable OSC-enabled software
-
+Bindings addon
+Isotonik SMART (not strictly necessary)
+Max4Live or Ableton Live Suite 
+TouchOSC
 
 https://isotonikstudios.com/product/clyphx-pro/
 
-http://forum.nativekontrol.com/thread/3564/adding-mode-functionality-controls-oscs 
+http://forum.nativekontrol.com/thread/3620/beta-osc-output-clyphx-pro
 
-http://forum.nativekontrol.com/attachment/download/1314
+http://forum.nativekontrol.com/thread/3564/adding-mode-functionality-controls-oscs 
 
 https://isotonikstudios.com/product/clyphx-pro-bindings/
 
 https://isotonikstudios.com/product/smart/
 
+https://hexler.net/products/touchosc
 
 - Copy all .txts to preferences in nativeKontrol folder
 - Set your 8 knobs on channel 11 assign them to "control change" 1 to 8 
@@ -63,8 +59,7 @@ Features
 
 
                                     The user manuals needs to be updated/finished
-                                    
-                                    
-                                    
-                                    
-                                    
+                                    For any question refer to either
+http://forum.nativekontrol.com/thread/3896/multiple-morpher-presets-external-display
+https://www.facebook.com/groups/Clyphx.Lovers.Ita/
+https://www.facebook.com/groups/clyphx.pro/
