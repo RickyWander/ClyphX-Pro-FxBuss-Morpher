@@ -60,6 +60,9 @@ Features
 
                                     The user manuals needs to be updated/finished
                                     For any question refer to either
+                                    
 http://forum.nativekontrol.com/thread/3896/multiple-morpher-presets-external-display
+
 https://www.facebook.com/groups/Clyphx.Lovers.Ita/ 
+
 https://www.facebook.com/groups/clyphx.pro/
